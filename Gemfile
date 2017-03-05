@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-gem 'jekyll'
+gem 'Ds3c CTF team'
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
+  gem "Ds3c CTF team"
   gem "pygments.rb"
 end
 
