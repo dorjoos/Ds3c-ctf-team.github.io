@@ -14,11 +14,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: ds3c-ctf-team
+      title: DS3C-CTF-TEAM
 
-description: ds3c-ctf-team
+description: DS3C-CTF-TEAM
 author:
-  name: ds3c-ctf-team
+  name: DS3C-CTF-TEAM
   email: ds3c-ctf-team@gmail.com
   github: ds3c-ctf-team
   twitter: ds3c-ctf-team
