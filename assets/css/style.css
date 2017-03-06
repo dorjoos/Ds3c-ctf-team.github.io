@@ -99,6 +99,10 @@ article{
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
+    font-size: 23px;
+    font-family: Tinos,serif;
+    text-align: justify;
+    line-height: 1.42857143;
 }
 
 .post-date {
