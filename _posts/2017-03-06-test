@@ -1,0 +1,50 @@
+---
+layout: post
+title: Lost Friends (300pts)
+categories: [ctf]
+fullview: true
+comments: true
+tags: [ctf, pragyancft,Forensics]
+description: Lost Friends (300pts)
+---
+**Description**
+===
+Moana and her friends were out on a sea voyage, spending their summer joyously.
+Unfortnately, they came across Charybdis, the sea monster. Charybdis, furious over having
+unknown visitors, wreaked havoc on their ship. The ship was lost.
+
+Luckily, Moana survived, and she was swept to a nearby island. But, since then, she has not seen her
+friends. Moana has come to you for help. She believes that her friends are still alive, and that you are the
+only one who can help her find them.
+and give us one photo
+```
+1 import osdds
+2 p = os.popen('ping google.com',"r")
+4 while 1:
+5   line = p.readline()
+6   if not line: break
+7      print line
+
+```
+
+
+**Solution**
+===
+
+
+first i used stegsolve and saw alvin and the chipmunks
+
+![Image of Yaktocat](https://1.bp.blogspot.com/-DFP8gu-6O-E/WLu-75F0Y5I/AAAAAAAABdQ/e1huGAjCVIEKtwNUFM9EMq1ww2JV4M8nQCLcB/s320/bodlogo4.png)
+
+then i use strings command on linux so get that hint
+
+![Image of sk](https://4.bp.blogspot.com/-74UY9Nd8zh0/WLu_4pCcFxI/AAAAAAAABdY/XVk4r7eG50kpLoEpORbea6llZ9O3SDEzwCLcB/s320/bodlogo4-2.png)
+
+
+we read description and it was the  <a class="btn btn-default" href="http://www.imdb.com/title/tt1615918/?ref_=tt_rec_tt" >Alvin and the Chipmunks: Chipwrecked</a>
+
+i think maybe its director of that movie and check it out
+
+![Iamge of director](https://2.bp.blogspot.com/-64PDcmu_5PM/WLvARJaGHJI/AAAAAAAABdc/l-JDil-ipRMkjPmijXbNLk3Rec01PlvuACLcB/s320/bodlogo4-3.png)
+
+`Flag is : pragyanctf{MikeMitchell}`
