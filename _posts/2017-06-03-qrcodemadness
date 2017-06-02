@@ -1,0 +1,29 @@
+---
+layout: post
+title: Qr code madness - Misc (200 + 0)
+categories: [ctf]
+fullview: true
+comments: true
+tags: [ctf, securityfest, misc]
+description: Qr code madness - Misc (200 + 0)
+---
+
+**Description**
+
+Random pictures, this do not make sense
+Solves: 80
+Download: [Файл татах](http://dl.ctf.rocks/qrcodemadness.7z)
+Author: d3vnu11
+
+**Original photo**
+
+![Image of QR](https://3.bp.blogspot.com/-4wfOPRNFoNk/WLu9emBXVGI/AAAAAAAABdE/T8Yn_PWnhkAm92Aj-4SJ9nPQt35gwq8TwCLcB/s320/treasure_map.png)
+
+**Solution**
+
+I used  <a class="btn btn-default" href="https://webqr.com/" >onloine qr decoder </a> this site for read QR code 
+
+![Image of QR](https://1.bp.blogspot.com/-F8z3KXaFRrM/WLu94a9p13I/AAAAAAAABdI/Jn5yCMZdD1k9JwReQtmVsgiA2G9PpVC1QCLcB/s320/bodlogo3.png)
+
+
+`Flag is : pragyanctf{stay_pragyaned}`
