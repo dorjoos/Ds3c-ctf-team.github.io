@@ -1,3 +1,1 @@
-DS3C TEAM IN MONGOLIA
-
-
+Function Prompt { "$( Split-Path -leaf -path (Get-Location) )>" }
